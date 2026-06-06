@@ -1,7 +1,7 @@
 # Sales Performace Dashboard
 
 ## Overview
-Interactive Tableau dashboard analyzing revenue trends, customer metrics, and product performance.
+Designed an Interactice Tableau dashboard to analyze sales performance, customer metrics, and product revenue trends using KPI cards and interactive visualizations.
 
 ## KPIs
 - Total Revenue
@@ -27,3 +27,9 @@ Interactive Tableau dashboard analyzing revenue trends, customer metrics, and pr
 
 ## Tableau Public Link
 [View Interactive Dashboard](https://public.tableau.com/app/profile/brandon.martin.garcia/viz/SalesPerformanceDashboard_17807345547170/Dashboard1?publish=yes)
+
+## Key Insights
+- Revenue showed significant growth throughout 2012.
+- The UK dominated overall sales, while Netherlands and EIRE were the strongest international revenue contributors. The UK was excluded from the country revenue chart to improve visibility into performance across smaller international markets.
+- Several products consistently outperformed others in quantity sold.
+- Return rate remained under 2%, indicating strong order quality.
